@@ -8,3 +8,4 @@ Some further reading on the `git-notes` command:
 
 - [Note to Self](http://git-scm.com/blog/2010/08/25/notes.html)
 - [Git Tip of the Week: Git Notes](http://alblue.bandlem.com/2011/11/git-tip-of-week-git-notes.html)
+- [More Uses for Git Notes](http://blog.adamspiers.org/2013/10/02/more-uses-for-git-notes/)
