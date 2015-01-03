@@ -63,3 +63,8 @@ console.log(&quot;[5,4,3,2,1] -&gt; &quot; + sort([5,4,3,2,1]));
 console.log(&quot;[7,3,5,9,1,4,2,0,8] -&gt; &quot; + sort([7,3,5,9,1,4,2,0,8]));</code></pre>
 <p>See the Pen <a href='http://codepen.io/jbranchaud/pen/EaNXEX/'>Insertion Sort</a> by Josh Branchaud (<a href='http://codepen.io/jbranchaud'>@jbranchaud</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 </div><script async src="//assets.codepen.io/assets/embed/ei.js"></script>
+
+## CodePen with an iframe
+
+<iframe height='350' scrolling='no' src='//codepen.io/jbranchaud/embed/EaNXEX/' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/jbranchaud/pen/EaNXEX/'>Insertion Sort</a> by Josh Branchaud (<a href='http://codepen.io/jbranchaud'>@jbranchaud</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
